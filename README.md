@@ -1,4 +1,4 @@
 
 # Om.nacl
 
-NaCl support library.
+Haxe [nacl](https://developer.chrome.com/native-client) support library.
